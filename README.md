@@ -81,5 +81,5 @@ maintainable architectures.
 
 ## 🤝 Let's Connect
 
--   💼 LinkedIn: https://www.linkedin.com/in/vasudevan-krishnasamy-29061b36
+-   💼 LinkedIn: https://www.linkedin.com/in/vasudevan-krishnasamy
 -   📧 Email: vasudev.krishnasamy@gmail.com
