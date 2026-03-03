@@ -1,16 +1,85 @@
-## Hi there 👋
+# 👋 Hi, I'm Vasudevan Krishnasamy
 
-<!--
-**VasuKrishnan90/VasuKrishnan90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Senior Software Engineer \| Full Stack Developer \| System Architect
 
-Here are some ideas to get you started:
+I'm a passionate Senior Software Engineer with experience building
+scalable web applications, real-time systems, and high-performance
+backend services. I enjoy solving complex problems and designing clean,
+maintainable architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------------------------------------------------------------------
+
+## 🧑‍💻 About Me
+
+-   🔭 Experienced in scalable web & cloud-based applications
+-   💡 Strong in system design & performance optimization
+-   🌍 Full-stack development expertise
+-   ⚡ Skilled at debugging complex production issues
+
+------------------------------------------------------------------------
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+-   React.js
+-   Next.js
+-   TypeScript
+-   JavaScript (ES6+)
+-   HTML5 / CSS3
+-   Redux
+
+### 🔧 Backend
+
+-   Node.js
+-   Express.js
+-   REST APIs
+-   WebSocket
+-   Microservices Architecture
+
+### 🗄️ Database
+
+-   PostgreSQL
+-   MySQL
+-   MongoDB
+-   Redis
+
+### ☁️ DevOps & Tools
+
+-   Docker
+-   Git & GitHub
+-   Linux
+-   Nginx
+
+------------------------------------------------------------------------
+
+## 🏗️ Engineering Practices
+
+-   Scalable System Design
+-   Performance Optimization
+-   Secure Coding Practices
+-   API Design & Documentation
+-   Test-Driven Development (TDD)
+
+------------------------------------------------------------------------
+
+## 🧩 Featured Projects
+
+### 🔹 Bon2TV
+
+> Integrated video streaming platform with e-commerce products.
+
+### 🔹 TradeEazy
+
+> Trading platform with Samco API integration for custom strategies and study.
+
+### 🔹 Telegram Bot
+
+> Telegram bot to receive stock alerts in real time.
+
+------------------------------------------------------------------------
+
+## 🤝 Let's Connect
+
+-   💼 LinkedIn: https://www.linkedin.com/in/vasudevan-krishnasamy-29061b36
+-   📧 Email: vasudev.krishnasamy@gmail.com
